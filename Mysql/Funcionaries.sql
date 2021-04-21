@@ -1,0 +1,1 @@
+select nome, salario from tb_informaçoes where salario < 2000

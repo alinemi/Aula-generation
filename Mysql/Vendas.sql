@@ -1,0 +1,1 @@
+select produto, preco from tb_vendas where preco < 500
